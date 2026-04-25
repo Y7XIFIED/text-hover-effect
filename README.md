@@ -25,7 +25,7 @@ Open `index.html` directly in your browser, or serve the folder with any static 
 
 ## Live Demo
 
-[View production deployment](https://...)
+[View production deployment](https://text-hover-effect-one.vercel.app)
 
 ## License
 
