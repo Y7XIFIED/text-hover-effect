@@ -1,32 +1,9 @@
-# Text Hover Effect
+﻿<h3 align="center"><b>TEXT HOVER EFFECT</b></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" /></p>
 
-Minimal interactive text hover animation with a clean visual feel and lightweight frontend setup.
+Welcome to **Text Hover Effect**! This is a fun and engaging project built to provide an amazing experience!
 
-![Build](https://img.shields.io/badge/build-passing-111111?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-0f766e?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-1d4ed8?style=flat-square)
+## ðŸš€ Live Website
+Experience the fully interactive website live here: https://text-hover-effect-one.vercel.app
 
-## Features
-
-- Smooth hover-based text interaction
-- Lightweight, dependency-free setup
-- Simple structure for quick customization
-
-## Installation
-
-```bash
-git clone https://github.com/Y7XIFIED/REPO_NAME.git
-cd REPO_NAME
-```
-
-## Usage
-
-Open `index.html` directly in your browser, or serve the folder with any static server.
-
-## Live Demo
-
-[View production deployment](https://text-hover-effect-one.vercel.app)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+<div align="center"><p>Y7XIFIED</p></div>
