@@ -30,13 +30,17 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-```text
-Text Hover Effect/
-├── .vercel/
-├── assets/
-└── font/
-    └── termina-test/
-```
+
+- 📁 **.vercel/**
+- 📁 **assets/**
+- 📁 **components/**
+- 📁 **font/**
+- 📁 **scripts/**
+- 📁 **styles/**
+- 📄 `.gitignore`
+- 📄 `index.html`
+- 📄 `README.md`
+- 📄 `script.js`
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
